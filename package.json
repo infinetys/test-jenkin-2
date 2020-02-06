@@ -1,0 +1,19 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "Project for Auto Script Postman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinetys/test-jenkin-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infinetys/test-jenkin-2/issues"
+  },
+  "homepage": "https://github.com/infinetys/test-jenkin-2#readme"
+}
